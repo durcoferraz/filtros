@@ -1,6 +1,7 @@
 
 import cv2
 
+# Munif
 
 rgb = cv2.imread('C:/Users/Manna/Desktop/teste/programa/rgb.jpg')
 noir = cv2.imread('C:/Users/Manna/Desktop/teste/programa/noir.jpg')
